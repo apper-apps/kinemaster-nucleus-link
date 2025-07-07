@@ -1,0 +1,106 @@
+[
+  {
+    "Id": 1,
+    "postId": 1,
+    "author": "Alex Rodriguez",
+    "email": "alex@example.com",
+    "content": "This chroma key guide is amazing! I've been struggling with green screen effects for months, and your tips about lighting made all the difference. The edge smoothing technique you mentioned works perfectly.",
+    "date": "2024-12-11T14:30:00Z"
+  },
+  {
+    "Id": 2,
+    "postId": 1,
+    "author": "Maria Santos",
+    "email": "maria.santos@example.com",
+    "content": "Great tutorial! One question though - what's the best way to handle hair and fine details in chroma key? I'm having trouble with the edges looking too sharp.",
+    "date": "2024-12-12T09:15:00Z"
+  },
+  {
+    "Id": 3,
+    "postId": 1,
+    "author": "David Kim",
+    "email": "david.kim@example.com",
+    "content": "The similarity and smoothness slider explanation was exactly what I needed. I was using too high similarity values and couldn't figure out why my backgrounds were showing through. Thanks!",
+    "date": "2024-12-12T16:45:00Z"
+  },
+  {
+    "Id": 4,
+    "postId": 2,
+    "author": "Jennifer Chen",
+    "email": "jen.chen@example.com",
+    "content": "The new AI audio enhancement is a game changer! I tested it on my podcast editing and it's incredible how it cleans up the audio automatically. Worth the update just for this feature.",
+    "date": "2024-12-09T11:20:00Z"
+  },
+  {
+    "Id": 5,
+    "postId": 2,
+    "author": "Michael Brown",
+    "email": "m.brown@example.com",
+    "content": "I love the faster rendering times! My 10-minute videos used to take forever to export, now they're done in half the time. The quality improvement is noticeable too.",
+    "date": "2024-12-10T08:30:00Z"
+  },
+  {
+    "Id": 6,
+    "postId": 3,
+    "author": "Lisa Wang",
+    "email": "lisa.wang@example.com",
+    "content": "I had no idea about the audio ducking feature! This is perfect for my YouTube videos where I have background music but need clear voice-over. Thanks for sharing these hidden gems!",
+    "date": "2024-12-06T13:45:00Z"
+  },
+  {
+    "Id": 7,
+    "postId": 3,
+    "author": "Robert Johnson",
+    "email": "rob.johnson@example.com",
+    "content": "The speed ramping technique is exactly what I was looking for to create those cinematic slow-motion effects. Your explanation of using keyframes made it so much clearer.",
+    "date": "2024-12-07T10:15:00Z"
+  },
+  {
+    "Id": 8,
+    "postId": 4,
+    "author": "Emily Davis",
+    "email": "emily.davis@example.com",
+    "content": "As someone who switched from desktop to mobile editing, I completely agree with all your points. The touch interface is so much more intuitive, and being able to edit anywhere is a huge advantage.",
+    "date": "2024-12-04T15:20:00Z"
+  },
+  {
+    "Id": 9,
+    "postId": 4,
+    "author": "Carlos Martinez",
+    "email": "carlos.m@example.com",
+    "content": "The cloud integration point is spot on. I love how I can start editing on my phone during my commute and finish on my tablet at home. Seamless workflow!",
+    "date": "2024-12-05T12:00:00Z"
+  },
+  {
+    "Id": 10,
+    "postId": 5,
+    "author": "Ashley Thompson",
+    "email": "ashley.t@example.com",
+    "content": "These TikTok tips are gold! I followed your advice about music synchronization and my engagement rate has doubled. The beat detection feature is incredible.",
+    "date": "2024-11-29T17:30:00Z"
+  },
+  {
+    "Id": 11,
+    "postId": 5,
+    "author": "Jake Wilson",
+    "email": "jake.wilson@example.com",
+    "content": "The vertical video optimization tips helped me so much. I was making the mistake of just cropping horizontal videos, but starting with the 9:16 aspect ratio makes such a difference.",
+    "date": "2024-11-30T14:10:00Z"
+  },
+  {
+    "Id": 12,
+    "postId": 6,
+    "author": "Priya Patel",
+    "email": "priya.patel@example.com",
+    "content": "This color grading guide is comprehensive! The three-way color corrector explanation finally helped me understand how to grade different parts of the image independently.",
+    "date": "2024-11-26T09:45:00Z"
+  },
+  {
+    "Id": 13,
+    "postId": 6,
+    "author": "Thomas Anderson",
+    "email": "thomas.a@example.com",
+    "content": "The orange and teal look tutorial is perfect! I've been trying to achieve that cinematic look for ages. Your step-by-step approach made it so easy to follow.",
+    "date": "2024-11-27T16:20:00Z"
+  }
+]

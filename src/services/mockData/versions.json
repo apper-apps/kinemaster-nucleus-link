@@ -1,0 +1,92 @@
+[
+  {
+    "Id": 1,
+    "versionNumber": "5.2.7",
+    "releaseDate": "2024-12-01T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.2.7.apk",
+    "fileSize": "89.5 MB",
+    "changelog": "• New AI-powered audio enhancement tool\n• Improved rendering engine with 40% faster export\n• Enhanced color grading panel with new presets\n• Added trending transition effects\n• Bug fixes and performance improvements\n• Support for more video codecs\n• Redesigned user interface",
+    "downloads": 2847362
+  },
+  {
+    "Id": 2,
+    "versionNumber": "5.2.6",
+    "releaseDate": "2024-11-15T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.2.6.apk",
+    "fileSize": "87.2 MB",
+    "changelog": "• Fixed chroma key edge smoothing issues\n• Improved timeline performance\n• Added new text animation effects\n• Enhanced audio ducking feature\n• Fixed crash issues on older devices\n• Improved memory management\n• Minor UI improvements",
+    "downloads": 1956482
+  },
+  {
+    "Id": 3,
+    "versionNumber": "5.2.5",
+    "releaseDate": "2024-10-28T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.2.5.apk",
+    "fileSize": "85.8 MB",
+    "changelog": "• Added speed ramping with keyframes\n• New split screen templates\n• Improved reverse video feature\n• Enhanced precision trimming\n• Added layer blending modes\n• Fixed audio sync issues\n• Performance optimizations",
+    "downloads": 1634729
+  },
+  {
+    "Id": 4,
+    "versionNumber": "5.2.4",
+    "releaseDate": "2024-10-10T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.2.4.apk",
+    "fileSize": "84.1 MB",
+    "changelog": "• Custom aspect ratio support\n• Freeze frame functionality\n• Advanced color matching tools\n• Batch export feature\n• New social media templates\n• Improved stability\n• Bug fixes for Android 14",
+    "downloads": 1398556
+  },
+  {
+    "Id": 5,
+    "versionNumber": "5.2.3",
+    "releaseDate": "2024-09-20T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.2.3.apk",
+    "fileSize": "82.7 MB",
+    "changelog": "• Enhanced vertical video editing\n• Beat detection for music sync\n• Mobile-optimized color presets\n• Trending effects library update\n• Improved text overlay animations\n• Fixed export quality issues\n• Better low-light performance",
+    "downloads": 1245891
+  },
+  {
+    "Id": 6,
+    "versionNumber": "5.2.2",
+    "releaseDate": "2024-08-30T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.2.2.apk",
+    "fileSize": "81.3 MB",
+    "changelog": "• Three-way color corrector\n• Professional LUT support\n• Advanced white balance tools\n• Histogram display\n• Improved chroma key processing\n• Enhanced audio filters\n• Stability improvements",
+    "downloads": 1089324
+  },
+  {
+    "Id": 7,
+    "versionNumber": "5.2.1",
+    "releaseDate": "2024-08-10T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.2.1.apk",
+    "fileSize": "80.1 MB",
+    "changelog": "• Multi-layer video support\n• Improved rendering quality\n• New transition effects\n• Enhanced audio mixing\n• Better timeline navigation\n• Fixed memory leaks\n• Performance optimizations",
+    "downloads": 967445
+  },
+  {
+    "Id": 8,
+    "versionNumber": "5.2.0",
+    "releaseDate": "2024-07-25T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.2.0.apk",
+    "fileSize": "78.9 MB",
+    "changelog": "• Major UI redesign\n• New project templates\n• Enhanced video effects\n• Improved audio quality\n• Better export options\n• Cloud sync integration\n• Bug fixes and improvements",
+    "downloads": 856729
+  },
+  {
+    "Id": 9,
+    "versionNumber": "5.1.9",
+    "releaseDate": "2024-07-05T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.1.9.apk",
+    "fileSize": "77.2 MB",
+    "changelog": "• Green screen improvements\n• New text fonts and styles\n• Enhanced video stabilization\n• Better 4K support\n• Improved thumbnail generation\n• Fixed crashes on startup\n• Minor UI tweaks",
+    "downloads": 734682
+  },
+  {
+    "Id": 10,
+    "versionNumber": "5.1.8",
+    "releaseDate": "2024-06-15T00:00:00Z",
+    "downloadUrl": "https://example.com/kinemaster-5.1.8.apk",
+    "fileSize": "76.5 MB",
+    "changelog": "• Picture-in-picture mode\n• New animation presets\n• Enhanced audio editing\n• Improved color correction\n• Better device compatibility\n• Fixed export issues\n• Performance improvements",
+    "downloads": 623847
+  }
+]
